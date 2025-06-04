@@ -25,7 +25,7 @@ _Prior experience:_ C • Java • Basic Python
 
 ## 🚀 Projects
 
-> _Projects are coming soon! Stay tuned for updates._
+- ** Taco Shop project ** with HTML and CSS
 
 ---
 
