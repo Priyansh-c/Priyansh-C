@@ -9,7 +9,7 @@
 ## 📚 Currently Learning & Focus
 
 - **Data Structures & Algorithms** with C++  
-- **HTML & CSS** fundamentals for web development  
+- **Front-end** fundamentals for web development  
 
 _Prior experience:_ C • Java • Basic Python
 
@@ -18,7 +18,7 @@ _Prior experience:_ C • Java • Basic Python
 ## 🛠️ Tech Stack & Skills
 
 - **Languages:** C • C++ • Java • Python (basics)  
-- **Web:** HTML • CSS  
+- **Web:** HTML • CSS  • JS
 - **DSA:** Implementing common data structures and solving algorithmic problems in C++
 
 ---
