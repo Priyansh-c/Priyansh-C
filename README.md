@@ -26,6 +26,7 @@ _Prior experience:_ C • Java • Basic Python
 ## 🚀 Projects
 
 - **Taco Shop project** with HTML and CSS
+- **React Cuisine website** with html css js react
 
 ---
 
